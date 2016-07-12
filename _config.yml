@@ -1,0 +1,14 @@
+layout_spectrum: 0.6152827781625092
+typography_spectrum: 0.6324566653929651
+color:
+  brandStrength: 0.17587088840082288
+  lightness: 0.8855184253770858
+  saturation: 0.8532796632498503
+  rhythmicContrast: 0.7284846557304263
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: morelos
